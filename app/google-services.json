@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "927860774097",
+    "project_id": "androiddemo21052021",
+    "storage_bucket": "androiddemo21052021.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:927860774097:android:e61727afc094c72dff21f0",
+        "android_client_info": {
+          "package_name": "iuh.edu.authenfirebasedemo2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "927860774097-aisiuglvap256gor43q7pkk9ita04dj7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKR4-vCpf6yV-SM1myKA_HdzclTGj7qpQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "927860774097-aisiuglvap256gor43q7pkk9ita04dj7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
